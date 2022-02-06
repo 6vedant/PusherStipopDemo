@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * Created by kehinde on 9/24/17.
+ * Created by Vedant
  */
 
 public class Message implements Parcelable {
